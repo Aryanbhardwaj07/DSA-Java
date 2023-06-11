@@ -1,4 +1,4 @@
-   import java.util.*;
+import java.util.*;
 public class First_Last {
 
     public static void main(String[] args) {
