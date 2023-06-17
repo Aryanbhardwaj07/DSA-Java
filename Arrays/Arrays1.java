@@ -5,7 +5,7 @@ public class Assignment2{
     public static void main(String[] args){
   
         Scanner obj= new Scanner(System.in);
-        System.out.println("Enter the size of array:");
+        System.out.println("Enter the size of array: ");
         int n=obj.nextInt();
         int arr1[] = new int[n];
         int arr2[] = new int[n];
