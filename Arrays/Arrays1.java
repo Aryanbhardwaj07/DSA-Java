@@ -1,5 +1,3 @@
-
-
 public class Assignment2{
 
     public static void main(String[] args){
@@ -42,7 +40,7 @@ public class Assignment2{
         System.out.println();
         System.out.println("Elements of merged array are: ");
         for (int i=0;i<arr3.length;i++){
-            System.out.print(arr3[i] + " ");
+            System.out.print(arr3[i] + "  ");
         }
     }
 }
