@@ -5,6 +5,7 @@ public class First_Last {
         int[] nums = {5, 7, 7, 8, 8, 10};
         int target = 8;
         int[] ans=searchRange(nums,target);
+        
         System.out.println(Arrays.toString(ans));
     }
 
