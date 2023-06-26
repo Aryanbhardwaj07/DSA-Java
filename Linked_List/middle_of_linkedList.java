@@ -1,3 +1,4 @@
+//Leetcode Problem
 /**
  * Definition for singly-linked list.
  * public class ListNode {
@@ -13,9 +14,7 @@ class Solution {
        
         ListNode fast=head;
         ListNode slow=head;
-       /* if(head==null){
-            return head;
-        }*/
+       
         while(fast!=null && fast.next!=null){
         fast=fast.next.next;
         slow=slow.next;
