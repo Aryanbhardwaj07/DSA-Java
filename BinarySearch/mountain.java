@@ -1,9 +1,10 @@
-
+// Leetcode Problem
 public class mountain {
     public static void main(String[] args) {
     int[]arr={0,2,1,0};
     int ans=peakIndex(arr);
-        System.out.println(ans);
+    System.out.println(ans);
+    
     }
     public static int peakIndex(int[] arr){
         int start=0;
