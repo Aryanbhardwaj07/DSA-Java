@@ -33,6 +33,7 @@ public class Assignment2{
         for (int i=0;i<arr1.length;i++){
             arr3[i]=arr1[i];
             c++;
+        
         }
         for (int i=0;i<arr2.length;i++){
             arr3[c++]=arr2[i];
