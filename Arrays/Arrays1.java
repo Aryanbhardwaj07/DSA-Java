@@ -10,7 +10,7 @@ public class Assignment2{
         int c=0;
         System.out.println("Enter the elements of array 1:");
         for(int i=0;i<n;i++){
-         int a;
+         int a ;
          a= obj.nextInt();
           arr1[i]=a;
         }
