@@ -9,7 +9,8 @@ static void swap(int[] arr, int index1,int index2){
         System.out.println(Arrays.toString(arr));
         }
 }
-*******************Reverse the Array Using swap function above***********
+
+//*******************Reverse the Array Using swap function above***********
 public class question {
     static void swap(int[] arr, int index1,int index2){
         int temp=arr[index1];
