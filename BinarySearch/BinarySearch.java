@@ -17,7 +17,7 @@ public class BinarySearch {
         return -1;
     }
 
-
+//DRIVER FUNCTION
         public static void main (String[]args){
             int[] arr = {2, 3, 6, 7, 8, 23, 45, 69};
             int target = 6;
